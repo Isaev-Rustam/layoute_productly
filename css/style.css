@@ -573,7 +573,7 @@ textarea {
 
 .top__inner {
   padding: 133px 0 80px;
-  background-image: url("./img/topBg.svg");
+  background-image: url("../img/topBg.svg");
   background-repeat: no-repeat;
   background-position: right;
 }
