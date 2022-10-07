@@ -573,7 +573,7 @@ textarea {
 
 .top__inner {
   padding: 133px 0 80px;
-  background-image: url("/img/topBg.svg");
+  background-image: url("../img/topBg.svg");
   background-repeat: no-repeat;
   background-position: right;
 }
@@ -612,7 +612,7 @@ textarea {
 
 .top__link::before {
   content: "";
-  background: url("/img/playIcon.svg");
+  background: url(".../img/playIcon.svg");
   width: 17px;
   height: 20px;
   position: absolute;
@@ -635,7 +635,7 @@ textarea {
 }
 
 .tools__inner {
-  background-image: url("/img/toolsBg.svg");
+  background-image: url("..img/toolsBg.svg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center bottom;
@@ -733,7 +733,7 @@ textarea {
 
 .direction__list-item::before {
   content: "";
-  background-image: url("/img/items/direction-icon.svg");
+  background-image: url("../img/items/direction-icon.svg");
   position: absolute;
   width: 35px;
   height: 35px;
@@ -742,7 +742,7 @@ textarea {
 }
 
 .team {
-  background-image: url("/img/teamBg.svg");
+  background-image: url("../img/teamBg.svg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
@@ -1291,7 +1291,7 @@ text-
   }
   .footer__menu-title::after {
     content: "";
-    background-image: url("/img/down.svg");
+    background-image: url("../img/down.svg");
     position: absolute;
     background-repeat: no-repeat;
     width: 15px;
