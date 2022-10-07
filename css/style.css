@@ -573,7 +573,7 @@ textarea {
 
 .top__inner {
   padding: 133px 0 80px;
-  background-image: url("/img/top-bg.svg");
+  background-image: url("/img/topBg.svg");
   background-repeat: no-repeat;
   background-position: right;
 }
@@ -612,7 +612,7 @@ textarea {
 
 .top__link::before {
   content: "";
-  background: url("/img/play-icon.svg");
+  background: url("/img/playIcon.svg");
   width: 17px;
   height: 20px;
   position: absolute;
@@ -635,7 +635,7 @@ textarea {
 }
 
 .tools__inner {
-  background-image: url("/img/tools-Bg.svg");
+  background-image: url("/img/toolsBg.svg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center bottom;
@@ -742,7 +742,7 @@ textarea {
 }
 
 .team {
-  background-image: url("/img/team__bg.svg");
+  background-image: url("/img/teamBg.svg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
